@@ -1,0 +1,13 @@
+# Byte-compiled #
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store 
+
+# format files #
+
+# User folders #
+SWOT_tutorial/data/SWOT_LR_L2vD
+
+# User files #
+print_.py
